@@ -1,0 +1,5 @@
+{
+  "name": "正航資安管家",
+  "description": "針對 ERP 系統的 Log 檔案進行資安異常監測，並整合至 App 端供管理者使用，包含戰情儀表板、即時告警、職務行為分析與調查中心。",
+  "requestFramePermissions": []
+}
